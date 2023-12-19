@@ -2,8 +2,7 @@
 
 ### Ferramentas
 
-- Kali Linux
-- Python
+- Terminal do Kali Linux
 
 ### Execução
 
